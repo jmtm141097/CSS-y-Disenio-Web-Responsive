@@ -2,6 +2,12 @@ body{
     font-family: 'Dancing Script', cursive;
     background-color: black;
 }
+
+#contenido{
+    max-width: 900px;
+    align-items: center;
+    margin: auto;
+}
 /* Aqui inicia el disenio del header */
 #cabecera{
     background-color:  #5b7989;
